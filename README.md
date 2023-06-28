@@ -1,5 +1,5 @@
 <h1 align="center"> God-Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://gifdb.com/images/high/smiley-face-lol-emoji-5jgns5etn61j9lt3.webp](https://i.pinimg.com/originals/3f/04/f7/3f04f76d28a2253ec55513f1ca2b6f78.jpg"width="420"> </kbd><br><br>
+<p align= "center"> <kbd> <img  src="https://i.pinimg.com/originals/3f/04/f7/3f04f76d28a2253ec55513f1ca2b6f78.jpg"width="420"> </kbd><br><br>
 
 
 
